@@ -1,0 +1,16 @@
+# STM32L475E-IoT01A1 Testing Tools Dependencies
+# Installation: pip install -r requirements.txt
+
+# MQTT communication
+paho-mqtt>=1.6.0
+
+# Serial communication
+pyserial>=3.5
+
+# Data processing and analysis
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
